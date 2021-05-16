@@ -8,15 +8,15 @@ body {
 
 .row {
     width: 95%;
-    margin: 20px auto;
+    margin: 10px auto;
     display: flex;
-    background-color: gray;
+    background-color: #0BEAE8;
 }
 
 .row__cell {
     flex: 1;
     margin: 10px;
-    background-color: gainsboro;
+    background-color: #F9E1B4;
     min-height: 50px;
     display: flex;
     justify-content: center;

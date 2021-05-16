@@ -14,7 +14,7 @@
 }
 
 .card {
-    background-color: #E1E1E1;
+    background-color: #A618FF;
     height: 500px;
     margin: 0 10px;
     display: flex;
@@ -38,7 +38,7 @@
 
 .card ul li {
     list-style-type: none;
-    background-color: #A8A8A8;
+    background-color: #F3D390;
     width: 300px;
     height: 40px;
     margin: 8px 0px;
@@ -48,7 +48,7 @@
     padding: 15px 0px;
     width: 30%;
     margin-bottom: 20px;
-    background-color: tomato;
+    background-color: #47FACA;
 }
 
 .card:nth-child(2) {
